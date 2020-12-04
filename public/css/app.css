@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.productDiv {
+    min-width: 300px;
+    max-width: 300px;
+    height: 330px;
+    margin-left: 5px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 16px;
+    background-color: transparent;
+    word-wrap: break-word;
+}
+
+.productInDivImage {
+    border: solid 1px black;
+    min-width: 265px;
+    max-width: 265px;
+    height: 220px;
+}
+
+.my_background_img {
+    background-color: black;
+}
+
+.my_centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered_navBar {
+    display: flex;
+    justify-content: center;
+}
+
+.my_div_border {
+    border: solid 1px white;
+}
+
+.my_font {
+    color: #9BED00;
+    font-family: 'Roboto', sans-serif;
+}
+
+.size_div {
+    height: 90%;
+    overflow: hidden;
+}
+
+.my_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.my_img_big {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.my_img_dev_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+.a_white {
+    color: white;
+    font-size: 20px;
+}
+
+.my_h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+nav .navbar-nav li a {
+    color: white !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color: DarkGrey;
+}
+
+.hdiv {
+    display: block;
+    background-image: url(../images/1back.jpg);
+}
+
+.my_a {
+    font-family: 'Roboto', sans-serif;
+    color: #9BED00;
+}
+
+.my_bordered_a_center {
+    text-align: center;
+    border: solid 1px white;
+    margin-top: 5px;
+}
+
+.my_margin_for_div {
+    margin-left: 30px;
+}
+
+.form_width {
+    min-width: 160px;
+}
+
+.my_bordered_a_center:hover {
+    background-color: DimGray;
+}
+
+.top_img {
+    margin-top: 5px;
+    max-height: 60px;
+    max-width: 50%;
+}
+
+.m_size {
+    width: 80%;
+}
+
+.my_font_info_box {
+    color: #9BED00;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.p_dark {
+    font-family: 'Roboto', sans-serif;
+    color: DarkGrey;
+}
+
+.btn_found:hover {
+    background-color: DimGray;
+}
+
+.inspect_img_size {
+    display: block;
+    width: 99%;
+    height: auto;
+}
+
+.photo_divices_border {
+    border: solid 1px DarkGrey;
+}
+
+.top_divices {
+    margin-top: 5px;
+    max-height: 160px;
+    max-width: 50%;
+    min-width: 150px;
+}
+
+.image_centered {
+    display: block;
+    margin: auto;
+}
+
+.t_aling_center {
+    text-align: center;
+}
+
+.liItemText {
+    font-size: 25px;
+}
